@@ -1,8 +1,11 @@
 ## 张瀚宸 ZHC
 
+- 🔭 I’m currently working on MCTS
+- 🌱 I’m currently learning frontend & all kinds of algorithms
+- 💬 Ask me about anything
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zhc7&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhc7)]
 <!--
 **zhc7/zhc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
