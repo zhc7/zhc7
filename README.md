@@ -1,7 +1,7 @@
 ## 张瀚宸 ZHC
 
-- 🔭 I’m currently working on MCTS
-- 🌱 I’m currently learning frontend & all kinds of algorithms
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning school work and maybe some interesting deep learning algorithms
 - 💬 Ask me about anything
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zhc7&show_icons=true&theme=radical)
