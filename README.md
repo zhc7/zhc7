@@ -1,7 +1,10 @@
-## 张瀚宸 ZHC
+## 张瀚宸 Hanchen Zhang
 
 - 🔭 I’m currently working on nothing
 - 💬 Ask me about anything
+
+contact me:
+<zhanghanchen77@gmail.com>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=zhc7&show_icons=true&theme=radical)
 
